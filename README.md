@@ -12,10 +12,10 @@
 <br>
 
 - I'm a computer engineering student
+- My email is viviana.navarro1583@alumnos.udg.mx
 - I'm learning how to use the python language
-- I'm learning to use the language of C
-- I'm learning to use the language of C++
-
+- I'm learning to use the language of C and C++
+- 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -49,7 +49,7 @@
 <br>
 <br>
 
-## A Snake Eating Chart
+## A Snake Eating Graphic
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
