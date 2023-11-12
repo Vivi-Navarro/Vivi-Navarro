@@ -15,7 +15,7 @@
 - My email is viviana.navarro1583@alumnos.udg.mx
 - I'm learning how to use the python language
 - I'm learning to use the language of C and C++
-- 
+  
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
